@@ -1,5 +1,5 @@
 {
-    "name": "kodeine/laravel-meta",
+    "name": "mzolin/laravel-meta",
     "description": "Fluent Meta Data for Eloquent Models, as if it is a property on your model.",
     "keywords": ["laravel", "meta", "metas", "meta data", "data" , "metadata", "metable", "model", "eloquent", "kodeine"],
     "authors": [
